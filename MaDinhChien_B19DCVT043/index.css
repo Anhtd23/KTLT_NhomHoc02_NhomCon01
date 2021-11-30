@@ -1,0 +1,20 @@
+* {
+    background-color:#def1f0;
+}
+
+
+#head {
+    font-family: 'Playfair Display', serif;
+    color: #26a69a;
+    background-color:#def1f0;
+    text-align: center;
+}
+
+body {
+    font-family: 'Lora', serif;
+}
+
+.title {
+    color: #26a69a;
+    text-align:left;
+}
